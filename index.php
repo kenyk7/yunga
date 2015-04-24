@@ -91,7 +91,7 @@
         <h3 class="modal-title" id="myModalLabel">Santa Rosa de la Yunga</h3>
       </div>
       <div class="modal-body modal-boddy-0">
-        <img src="uploads/test/photo (2).jpg" alt="Santa Rosa" class="img-responsive modal-img" width="100%" height="auto">
+        <img src="uploads/test/photo2.jpg" alt="Santa Rosa" class="img-responsive modal-img" width="100%" height="auto">
       </div>
       <div class="modal-footer">
         <div class="pull-left">
@@ -122,7 +122,7 @@
     <div class="col-lg-3 col-md-4 col-sm-6 item">
       <div class="panel panel-primary">
         <div class="panel-body">
-          <a href="#"><img src="uploads/test/photo (2).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto"></a>
+          <a href="#"><img src="uploads/test/photo2.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto"></a>
           <h4>Santa Rosa de la Yunga</h4>
           <p>Un Sitio web donde pordrás compartir fotos de alta calidad acerca del <strong>Distrito de Santa Rosa - Jaén</strong>. Como: Turismo, Paisajes y todo tipo de Fototografías relacionadas al mismo. Si te interesa el Sitio Web y quieres formar parte y colaborar, Envianos un Email solicitando resgistrarte y abriremos un registro para que tu también puedas publicar tus fotografías.</p>
           <a href="#" class="btn btn-primary btn-block">Quiero formar parte</a><br>
@@ -137,7 +137,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (1).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo1.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -166,37 +166,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (2).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
-              <figcaption>Santa Rosa</figcaption>
-            </figure>
-            <div class="caption-hover">
-              <div class="hover-details">
-                <span><i class="fa fa-heart"></i> 150 Likes</span><br>
-                <span><i class="fa fa-user"></i> Keny Romero</span>
-              </div>
-            </div>
-            <span class="btn-expand" data-toggle="modal" data-target="#myModal"><i class="fa fa-expand"></i></span>
-
-          </a>
-        </div>
-        <div class="panel-footer">
-          <div class="pull-left">
-            <time><i class="fa fa-calendar"></i> 23 Abril, 2015</time>
-          </div>
-          <div class="pull-right social-actions">
-            <a href="#" data-toggle="tooltip" title="Compartir" data-placement="top"><i class="fa fa-share-alt"></i> </a>
-            <a href="#" data-toggle="tooltip" title="Like +" data-placement="top"><i class="fa fa-heart"></i></a>
-          </div>
-          <div class="clearfix"></div>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 item">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <a href="#" class="caption">
-            <figure>
-              <img src="uploads/test/photo (3).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo2.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -226,7 +196,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo(4).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo3.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -256,7 +226,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo(5).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo4.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -286,7 +256,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (6).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo5.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -316,7 +286,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (7).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo6.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -346,7 +316,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (8).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo7.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -376,7 +346,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (9).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo8.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -406,7 +376,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (10).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo9.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -436,7 +406,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (11).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo10.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -466,7 +436,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (12).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo11.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -496,7 +466,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (13).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo12.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -526,7 +496,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (14).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo13.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -556,7 +526,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (15).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo14.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -586,7 +556,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (16).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo15.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -616,7 +586,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (17).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo16.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -646,7 +616,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (18).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo17.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -676,7 +646,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (19).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo18.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -706,7 +676,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (20).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo19.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -736,7 +706,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (21).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo20.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -766,7 +736,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (22).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo21.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -796,7 +766,37 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (23).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo22.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <figcaption>Santa Rosa</figcaption>
+            </figure>
+            <div class="caption-hover">
+              <div class="hover-details">
+                <span><i class="fa fa-heart"></i> 150 Likes</span><br>
+                <span><i class="fa fa-user"></i> Keny Romero</span>
+              </div>
+            </div>
+            <span class="btn-expand" data-toggle="modal" data-target="#myModal"><i class="fa fa-expand"></i></span>
+
+          </a>
+        </div>
+        <div class="panel-footer">
+          <div class="pull-left">
+            <time><i class="fa fa-calendar"></i> 23 Abril, 2015</time>
+          </div>
+          <div class="pull-right social-actions">
+            <a href="#" data-toggle="tooltip" title="Compartir" data-placement="top"><i class="fa fa-share-alt"></i> </a>
+            <a href="#" data-toggle="tooltip" title="Like +" data-placement="top"><i class="fa fa-heart"></i></a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 item">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <a href="#" class="caption">
+            <figure>
+              <img src="uploads/test/photo23.jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">

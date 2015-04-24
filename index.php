@@ -126,7 +126,9 @@
           <h4>Santa Rosa de la Yunga</h4>
           <p>Un Sitio web donde pordrás compartir fotos de alta calidad acerca del <strong>Distrito de Santa Rosa - Jaén</strong>. Como: Turismo, Paisajes y todo tipo de Fototografías relacionadas al mismo. Si te interesa el Sitio Web y quieres formar parte y colaborar, Envianos un Email solicitando resgistrarte y abriremos un registro para que tu también puedas publicar tus fotografías.</p>
           <a href="#" class="btn btn-primary btn-block">Quiero formar parte</a><br>
-          <div class="fb-page" data-href="https://www.facebook.com/pages/Santa-Rosa-Ja%C3%A9n/541317689344111" data-width="100%" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+          <div class="text-center facebook-page">
+            <div class="fb-page" data-href="https://www.facebook.com/pages/Santa-Rosa-Ja%C3%A9n/541317689344111" data-width="100%" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+          </div>
         </div>
       </div>
     </div>
@@ -861,7 +863,8 @@ $(function () {
   // });
   var $K = $('.isotope-content');
   $K.imagesLoaded(function () {
-    $K.masonry({itemSelector:'.item', isAnimated:true,layoutMode: 'masonry'})
+    $K.masonry({itemSelector:'.item', isAnimated:true,layoutMode: 'masonry'});
+    $(".facebook-page").css('padding-top', '0');
   });
 
   $(".btn-expand").click(function() {

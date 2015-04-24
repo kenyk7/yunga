@@ -105,15 +105,8 @@ body {
 .panel-default .panel-body {
   padding: 10px;
 }
-.fb-wrap {
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 20px;
-}
-.fb-like-box,
-.fb-like-box span,
-.fb-like-box span iframe[style] {
-  width: 100% !important;
+.facebook-page {
+  padding-top: 224px;
 }
 @media (max-width: 560px) {
   .panel-default .panel-body {

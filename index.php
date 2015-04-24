@@ -216,7 +216,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (4).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo(4).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">
@@ -246,7 +246,7 @@
         <div class="panel-body">
           <a href="#" class="caption">
             <figure>
-              <img src="uploads/test/photo (5).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
+              <img src="uploads/test/photo(5).jpg" alt="Santa Rosa" class="img-responsive" width="700" height="auto">
               <figcaption>Santa Rosa</figcaption>
             </figure>
             <div class="caption-hover">

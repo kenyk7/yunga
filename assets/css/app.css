@@ -1,0 +1,210 @@
+.posr {
+  position: relative;
+}
+.bd {
+  border: 1px solid #000;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.mb0 {
+  margin-bottom: 0;
+}
+.left-10 {
+  margin-left: 10px;
+}
+.border-top3 {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: 0;
+  right: 0;
+  border-top: 4px solid #0088ff;
+}
+body {
+  background: #f0f0f0;
+  font-size: 1.4em;
+}
+.welcome-home {
+  text-align: center;
+  background-image: url(../images/bg-1.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0 50px;
+  position: relative;
+}
+.welcome-home h1 {
+  color: #fff;
+  margin-top: 30px;
+  font-size: 3.7em;
+}
+.welcome-home .typed-welcome {
+  color: #fff !important;
+  font-size: 1.5em;
+  margin: 10px;
+}
+.social-header {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+.social-header span {
+  position: relative;
+  color: #fff;
+  margin-right: 10px;
+  top: -1px;
+}
+.social-header a {
+  font-size: 1.3em;
+  color: #fff;
+  display: inline-block;
+  padding: 2px 13px;
+  border-radius: 50%;
+}
+.social-header .fb {
+  background: #3b5998;
+}
+.navbar {
+  border-radius: 0;
+  text-transform: uppercase;
+  position: relative;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background: none;
+  position: relative;
+}
+.navbar-default .navbar-nav > .open > a:before,
+.navbar-default .navbar-nav > .open > a:hover:before,
+.navbar-default .navbar-nav > .open > a:focus:before,
+.navbar-default .navbar-nav > .active > a:before,
+.navbar-default .navbar-nav > .active > a:hover:before,
+.navbar-default .navbar-nav > .active > a:focus:before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: 0;
+  right: 0;
+  border-top: 4px solid #0088ff;
+}
+.navbar-default .navbar-nav > li > a {
+  position: relative;
+}
+.navbar-default .navbar-nav > li > a:hover:before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: 0;
+  right: 0;
+  border-top: 4px solid #0088ff;
+}
+.panel-default .panel-body {
+  padding: 10px;
+}
+@media (max-width: 560px) {
+  .panel-default .panel-body {
+    margin-left: -10px;
+    margin-right: -10px;
+    border-radius: 3px;
+    padding: 0;
+  }
+  .panel-default .panel-body img {
+    border-radius: 4px;
+  }
+}
+.panel:hover {
+  box-shadow: 0 3px 7px #ccc;
+}
+.panel-footer,
+.modal-footer {
+  border-top: 1px solid #e5e5e5;
+}
+.modal-header {
+  border-bottom: 1px solid #f0f0f0;
+}
+.modal-boddy-0 {
+  padding: 0px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.modal-boddy-0 img {
+  border-radius: 5px;
+  border: 1px solid #f0f0f0;
+}
+@media (min-width: 768px) {
+  .modal-full {
+    width: 85%;
+  }
+}
+.modal-backdrop.in {
+  opacity: 0.8;
+}
+.caption {
+  display: block;
+  position: relative;
+}
+.caption figcaption {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 1.3em;
+  color: #fff;
+  line-height: 20px;
+  z-index: 99;
+}
+.caption .caption-hover {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.7);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: all 0.5s;
+}
+.caption .caption-hover .hover-details {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  color: #fff;
+}
+.caption:hover .caption-hover {
+  opacity: 1;
+}
+.caption .btn-expand {
+  position: absolute;
+  right: 30px;
+  bottom: 20px;
+  color: #fff;
+  font-size: 1.5em;
+}
+.social-actions a {
+  margin-left: 15px;
+  font-size: 1.1em;
+  color: #888;
+  text-decoration: none;
+}
+.social-actions a:hover {
+  color: #0088ff;
+}
+#footer-page {
+  padding: 20px 0;
+  background: #111;
+  border-top: 3px solid #0088ff;
+  color: #999;
+}
+.social-footer {
+  position: absolute;
+  top: -7px;
+  right: 20px;
+}
+.social-footer a {
+  color: #ccc;
+  font-size: 1.7em;
+  margin-left: 20px;
+  display: inline-block;
+}

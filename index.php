@@ -22,7 +22,6 @@
   <link rel="apple-touch-icon" sizes="120x120" href="assets/icons/apple-touch-icon-120x120.png" />
   <link rel="apple-touch-icon" sizes="144x144" href="assets/icons/apple-touch-icon-144x144.png" />
   <link rel="apple-touch-icon" sizes="152x152" href="assets/icons/apple-touch-icon-152x152.png" />
-
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -837,11 +836,9 @@
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/isotope.min.js"></script>
 <script src="assets/js/typed.min.js"></script>
-
 <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
-  
   // init typed
   $(".welcome").typed({
     strings: ["Santa Rosa de la Yunga"],
@@ -866,7 +863,6 @@ $(function () {
   });
 
 })
-
 </script>
 </body>
 </html>

@@ -108,7 +108,14 @@
     </div>
   </div>
 </div>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <section>
 <div class="container-fluid">
   <div class="row isotope-content">
@@ -119,6 +126,7 @@
           <h4>Santa Rosa de la Yunga</h4>
           <p>Un Sitio web donde pordrás compartir fotos de alta calidad acerca del <strong>Distrito de Santa Rosa - Jaén</strong>. Como: Turismo, Paisajes y todo tipo de Fototografías relacionadas al mismo. Si te interesa el Sitio Web y quieres formar parte y colaborar, Envianos un Email solicitando resgistrarte y abriremos un registro para que tu también puedas publicar tus fotografías.</p>
           <a href="#" class="btn btn-primary btn-block">Quiero formar parte</a>
+          <div class="fb-page" data-href="https://www.facebook.com/zuck" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
         </div>
       </div>
     </div>
